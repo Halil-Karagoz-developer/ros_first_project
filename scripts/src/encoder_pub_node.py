@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+
+# Generator code given from you 
 import rospy
 from random import randint
 from std_msgs.msg import String
